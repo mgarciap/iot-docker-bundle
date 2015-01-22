@@ -1,6 +1,7 @@
 # Minimalistic IoT BOX
 
 This docker image contains:
+
 - [MQTT Broker] [1]
 - [Node-Red][2], A visual tool for wiring the Internet of Things
 
